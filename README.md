@@ -6,9 +6,9 @@
 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1nozAL6wl-4DqnqujIdtx4RGrf_ixf8KB/view?usp=sharing)**
 
 <h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left"> 
+<span align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,figma" alt="skills"/> 
-</p>
+</span>
 
 
 <!--
